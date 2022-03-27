@@ -1,5 +1,5 @@
-README file for Matlab code supporting the paper "NMFLRR: Clustering scRNA-seq data by integrating nonnegative matrix factorization with low rank representation ".
-
+README file for Matlab code supporting the following paper 
+Zhang Wei, Xue Xiaoli, Zheng Xiaoying, Fan Zizhu. NMFLRR: Clustering scRNA-seq data by integrating non-negative matrix factorization with low rank representation[J]. IEEE Journal of Biomedical and Health Informatics, 2022, 26(3):1394-1405. 
 
 Contents of this archive
 ------------------------
